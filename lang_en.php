@@ -9,7 +9,7 @@ define('_PURCHASE', 'purchase');
 define('_SUPPORT', 'support');
 define('_ACCOUNT', 'account');
 define('_ACCOUNT_SETTINGS', 'account settings');
-define('_ACCOUNT_CHANGE', 'client settings'); //client: website, eg font type, theme
+define('_ACCOUNT_CHANGE', 'website settings'); //client: website, eg font type, theme
 define('_AFFILIATE', 'affiliate');
 define('_AFFILIATE_NEW', 'view earnings');
 define('_AFFILIATE_KEYS', 'change keys');
