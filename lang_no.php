@@ -1,7 +1,7 @@
 <?php
 // language: Norsk
 // made by: Snusbase Translate Team
-// updated on: 22.June.2017
+// updated on: 23.June.2017
 
 // MENU
 define('_SEARCH', 'søk');
@@ -9,7 +9,7 @@ define('_PURCHASE', 'kjøp');
 define('_SUPPORT', 'kundestøtte');
 define('_ACCOUNT', 'bruker');
 define('_ACCOUNT_SETTINGS', 'brukerinstillinger');
-define('_ACCOUNT_CHANGE', 'Sideinstillinger'); //client: website, eg font type, theme
+define('_ACCOUNT_CHANGE', 'sideinstillinger'); //client: website, eg font type, theme
 define('_AFFILIATE', 'affiliate');
 define('_AFFILIATE_NEW', 'se fortjeneste');
 define('_AFFILIATE_KEYS', 'endre nøkler');
@@ -19,7 +19,7 @@ define('_SIGN_OUT', 'logg ut');
 define('_WELCOME', 'velkommen,'); //eg Welcome, Username.
 
 // SUPPORT
-define('_SUPPORT', 'alternative måter å ta kontakt er twitteren- og emailen våres; publicdbhost@gmail.com');
+define('_SUPPORT', 'alternative måter å ta kontakt er twitteren og emailen våres; publicdbhost@gmail.com');
 define('_MOST_ACTIVE', 'våre mest aktive kundestøtte tider er');
 define('_MONDAY_FRIDAY', 'Mandag til Fredag.');
 
