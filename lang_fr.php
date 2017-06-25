@@ -25,7 +25,7 @@ define('_MONDAY_FRIDAY', 'du Lundi au Vendredi.');
 
 // MEMBERS PAGE
 define('_P_OVERVIEW', 'Aperçu des performances');
-define('_AVG_QUERY', 'Requête en moyenne');
+define('_AVG_QUERY', 'Temps moyens des requêtes');
 define('_AVG_RESULTS', 'Résultats en moyenne');
 define('_ACC_NUMBER', 'Numéro de compte');
 define('_API_LOAD', 'charge de l api');
