@@ -1,7 +1,7 @@
 <?php
 // language: Spanish
-// made by: ssgod
-// updated on: 06.July.2017
+// made by: aaa1337
+// updated on: 15.July.2017
 
 // MENU
 define('_SEARCH', 'buscar');
